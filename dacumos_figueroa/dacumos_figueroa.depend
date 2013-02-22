@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1361546296 source:c:\documents and settings\florence\my documents\c++\dacumos_figueroa\main.cpp
+	<iostream>
+	<cstdlib>
+	"include/Project.h"
+
+1361546249 c:\documents and settings\florence\my documents\c++\dacumos_figueroa\include\project.h
+	<iostream>
+	<cstdlib>
+	"math.h"
+	<string>
+	<vector>
+	<fstream>
+	<sstream>
+	<string.h>
+	<iomanip>
+	<set>
+
+1361546313 source:c:\documents and settings\florence\my documents\c++\dacumos_figueroa\src\project.cpp
+	"../include/Project.h"
+
